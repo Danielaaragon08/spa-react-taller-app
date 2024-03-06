@@ -2,8 +2,7 @@ import React from "react";
 
 export const Icons = () => {
   return (
-    <div className='imagenes'>
-      
+    <div className="imagenes">
       <img
         src="https://thumbs.dreamstime.com/b/icono-del-vector-de-la-silueta-de-la-persona-ejemplo-blanco-y-negro-del-avatar-del-usuario-icono-linear-del-esquema-93075169.jpg"
         alt="persona"
