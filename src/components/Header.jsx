@@ -9,7 +9,6 @@ export const Header = ({ email }) => {
       last: "",
     },
   });
-  
 
   const { title, first, last } = user.name;
 
